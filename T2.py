@@ -1,5 +1,3 @@
-// Databricks notebook source
-spark
 
-// COMMAND ----------
-
+# Databricks notebook source
+test = "mytest"
