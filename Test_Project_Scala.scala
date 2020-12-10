@@ -11,15 +11,13 @@ println("On Main branch")
 
 // COMMAND ----------
 
-
-
-// COMMAND ----------
-
-// MAGIC %run /Users/ryan.decosmo@databricks.com/python_library
+// MAGIC %python
+// MAGIC dbutils.notebook.run("./T2")
 
 // COMMAND ----------
 
-square(7)
+// MAGIC %python
+// MAGIC squareNum(7)
 
 // COMMAND ----------
 
